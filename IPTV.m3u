@@ -14,7 +14,7 @@ http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV5+
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV6
-https://hlslive.1905.com/live/LIVE2OR14O20ADLYU/index.m3u8?tm=1656070065&sign=17bd679ad2c52d76b0fb9168b6a6ea31
+https://hlslive.1905.com/live/LIVE2OR14O20ADLYU/index.m3u8?tm=1656102328&sign=4ede05a6dff19d6a46fd5d1a1b5b71fb
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV7
 http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
@@ -170,8 +170,6 @@ http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", NewTV精品电影
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="精品电台", 爱上4K
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 潮妈辣婆
 http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 惊悚悬疑
@@ -212,10 +210,5 @@ http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 金牌综艺
-http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", iHOT爱谍战
-http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 爱情喜剧
-http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
+
 
