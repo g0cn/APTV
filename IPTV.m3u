@@ -160,7 +160,7 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="精品电台", CCTV-世界地理
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CCTV-央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", CCTV-央视文化精品
 http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="精品电台", CCTV-女性时尚
 http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
@@ -209,6 +209,13 @@ http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 张大仙
+https://bd.flv.huya.com/src/1259515661837-1259515661837-4682562792811659264-2519031447130-10057-A-0-1-imgplus.flv?wsSecret=556f995654d0a0a621a833e0db6a3fef&wsTime=62b5cf36&seqid=2935625050470&ctype=huya_webh5&ver=1&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&txyp=o%3Ax3%3B&fs=gctex&&wsiphost=ipdbme&u=1278589221354&t=100&sv=2206231022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 天龙八部
+https://bd.flv.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.flv?wsSecret=72f41a9d02e45966ddd172c7921b61c2&wsTime=62b5d2ff&seqid=2935626018652&ctype=huya_webh5&ver=1&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&fs=gctex&&wsiphost=ipdbme&u=1278589221354&t=100&sv=2206231022
+
+
 
 
 
