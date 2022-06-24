@@ -7,8 +7,7 @@ http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视", CCTV4
 http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV4K
-https://p.ggiptv.com/v/4k.m3u8
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视", CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV5+
@@ -168,7 +167,7 @@ http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="精品电台", CCTV-风云剧场
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", NewTV精品电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 黑莓电影
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 潮妈辣婆
 http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
@@ -178,8 +177,7 @@ http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 家庭剧场
 http://39.134.65.166/PLTV/88888888/224/3221225538/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 精品综合
-http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 古装剧场
 http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 精品纪录
