@@ -14,7 +14,7 @@ http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV5+
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV6
-http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+https://hlslive.1905.com/live/LIVE2OR14O20ADLYU/index.m3u8?tm=1656070065&sign=17bd679ad2c52d76b0fb9168b6a6ea31
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV7
 http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视", CCTV8
