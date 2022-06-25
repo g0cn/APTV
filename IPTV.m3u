@@ -94,8 +94,7 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225806/index.m3u8?
 http://39.135.32.236:6610/PLTV/77777777/224/3221225721/index.m3u8? 
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视", 江西卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225669/index.m3u8? 
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视", 内蒙古卫视
-http://39.135.32.236:6610/PLTV/77777777/224/3221225751/index.m3u8?
+
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视", 宁夏卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225782/index.m3u8? 
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视", 山西卫视
