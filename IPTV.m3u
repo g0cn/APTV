@@ -209,9 +209,9 @@ http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 王炸游戏
-https://hw.hls.huya.com/src/1483389481-1483389481-6371109308125413376-2966902418-10057-A-0-1.m3u8?wsSecret=e8c2007a71c81e971f77d49613107da8&wsTime=62b74f39&seqid=3120461025670&ctype=tars_mobile&ver=1&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&ratio=2000&uid=1464366881659&uuid=3874608145&t=103&sv=2110211124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 三国演义
-https://hw.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8?wsSecret=3d5dc2cba496554da92b98c3ca061bd6&wsTime=62b74dfe&seqid=3120460736559&ctype=tars_mobile&ver=1&txyp=o%3Atzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&ratio=2000&uid=1464366881659&uuid=3582702957&t=103&sv=2110211124
+http://aldirect.hls.huya.com/backsrc/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 天龙八部
+http://aldirect.hls.huya.com/backsrc/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8
 
 
 
