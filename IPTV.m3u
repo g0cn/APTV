@@ -220,10 +220,21 @@ http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 王炸游戏
-http://aldirect.hls.huya.com/backsrc/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙直播", 天龙八部
-http://aldirect.hls.huya.com/backsrc/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/35/39f2d1ae5b3dbb853dfe2f4ff79ebb_180_135.jpg?1603533492" group-title="王者荣耀", 盛世-童子
+https://hw.flv.huya.com/src/1503332370-1503332370-6456763364168171520-3006788196-10057-A-0-1-imgplus.flv?wsSecret=a7cb9b079d37cf85a8d8f7a3c675c903&wsTime=62b8845e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16561732787469590&ratio=8000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/78/859091a71db0eaec7b6c24ab4cff5c_180_135.jpg?1460197317" group-title="天天吃鸡", 盛世-BB文
+https://hw.flv.huya.com/src/1503332370-1503332370-6456763364168171520-3006788196-10057-A-0-1-imgplus.flv?wsSecret=a7cb9b079d37cf85a8d8f7a3c675c903&wsTime=62b8845e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16561732787469590&ratio=8000
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
+https://live.52sf.ga/huya/11342412
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310?460048" group-title="一起看", 封神榜
+https://live.52sf.ga/huya/23749096
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459?460048" group-title="一起看", 天龙八部
+https://live.52sf.ga/huya/23903123
+
+
 
 
 
