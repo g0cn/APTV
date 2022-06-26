@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" 
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/cc.xml" 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV1
 http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
 
