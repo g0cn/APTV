@@ -210,7 +210,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/78/859091a71db0eaec7b6c24ab4cff5c_180_135.jpg?1460197317" group-title="天天吃鸡", 盛世-BB文
+http://al.flv.huya.com/src/1544553224-1544553224-6633805584011362304-3089229904-10057-A-0-1-imgplus.flv?wsSecret=3360f409fe0832e3cded687157b232e1&amp;wsTime=62b9162f&amp;fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&amp;ctype=huya_tars&amp;fs=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16561732787469590&ratio=8000
 
 
 
@@ -228,9 +229,9 @@ https://hw.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-
 https://al.flv.huya.com/src/1648744803-1648744803-7081305008334962688-3297613062-10057-A-0-1-imgplus.flv?wsSecret=01ae8856b024f0ba27b16962d520f58f&wsTime=62b9b8b1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16562522092189620&ratio=4000
 
 
-
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/78/859091a71db0eaec7b6c24ab4cff5c_180_135.jpg?1460197317" group-title="天天吃鸡", 盛世-BB文
 https://hw.flv.huya.com/src/1503332370-1503332370-6456763364168171520-3006788196-10057-A-0-1-imgplus.flv?wsSecret=a7cb9b079d37cf85a8d8f7a3c675c903&wsTime=62b8845e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16561732787469590&ratio=8000
+
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 https://live.52sf.ga/huya/11342412
