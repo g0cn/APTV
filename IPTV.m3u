@@ -1,58 +1,48 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/cc.xml" 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-speed="10MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-2财经
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
 http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?
-
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视", CCTV3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视", CCTV4
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视", CCTV5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV5+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV6
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://39.135.32.236:6610/PLTV/77777777/224/3221225683/index.m3u8?
-
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV7
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
 http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-
-
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视", CCTV8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视", CCTV9
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
 http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视", CCTV10
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-
-
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视", CCTV11
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
 http://39.135.32.236:6610/PLTV/77777777/224/3221225750/index.m3u8?
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视", CCTV12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-
-
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视", CCTV13
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
 http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视", CCTV14
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视",CCTV-14少儿
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视", CCTV15
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://39.135.32.236:6610/PLTV/77777777/224/3221225693/index.m3u8?
-
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视", CCTV16
-http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视", CCTV17
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
 http://39.135.32.236:6610/PLTV/77777777/224/3221225766/index.m3u8?
-#EXTINF:-1 tvg-id="19" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视", CGTN
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-id="20" tvg-name="CGTN" group-title="央视",CGTN
 http://117.148.179.176/PLTV/88888888/224/3221231546/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="央视", CCTV4K
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-id="22" tvg-name="CCTV4EUO" group-title="央视",CCTV-4欧洲
+http://192.168.2.1:1111/19.ts
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-id="23" tvg-name="CCTV4AME" group-title="央视",CCTV-4美洲
+http://192.168.2.1:1111/20.ts
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="央视",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 
 
@@ -210,8 +200,7 @@ http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/86/3438b12391dd68194dc22f4195a723_180_135.jpg?1655753908?460083" group-title="天天吃鸡", 群星97
-https://live.52sf.ga/huya/516253
+
 
 
 
@@ -220,7 +209,7 @@ https://live.52sf.ga/huya/516253
 
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1653400276" group-title="王者荣耀", KPL职业联赛
-https://hw.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=093f5a8c25419d4a6df725154e3157a9&wsTime=62b9650a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16562308090573220&ratio=4000
+https://live.52sf.ga/huya/660002
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/f0/b389a086d4ee2cde167c8f66e0f80d_180_135.jpg?1631550331?460083" group-title="王者荣耀", LING-狗妹
 https://live.52sf.ga/huya/mengxing1221
@@ -229,8 +218,9 @@ https://live.52sf.ga/huya/150
 
 
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/78/859091a71db0eaec7b6c24ab4cff5c_180_135.jpg?1460197317" group-title="天天吃鸡", 盛世-BB文
-
-https://hw.flv.huya.com/src/1503332370-1503332370-6456763364168171520-3006788196-10057-A-0-1-imgplus.flv?wsSecret=a7cb9b079d37cf85a8d8f7a3c675c903&wsTime=62b8845e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16561732787469590&ratio=8000
+https://live.52sf.ga/huya/52880
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/86/3438b12391dd68194dc22f4195a723_180_135.jpg?1655753908?460083" group-title="天天吃鸡", 群星97
+https://live.52sf.ga/huya/516253
 
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
