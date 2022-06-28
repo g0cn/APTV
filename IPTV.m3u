@@ -222,7 +222,7 @@ https://vd3.bdstatic.com/mda-naacib64q7crs1tr/hd/cae_h264_delogo/164189165115594
 
 
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1653400276" group-title="王者荣耀", KPL职业联赛
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1653400276" group-title="王者荣耀", KPL职业联赛
 https://live.52sf.ga/huya/660002
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/f0/b389a086d4ee2cde167c8f66e0f80d_180_135.jpg?1631550331?460083" group-title="王者荣耀", LING-狗妹
