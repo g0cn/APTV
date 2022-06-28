@@ -34,7 +34,8 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225693/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
 http://39.135.32.236:6610/PLTV/77777777/224/3221225766/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-id="20" tvg-name="CGTN" group-title="央视",CGTN
-http://39.135.32.236:6610/PLTV/77777777/224/3221225816/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225878/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225825/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225707/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225875/index.m3u8?
+http://39.135.32.236:6610/PLTV/77777777/224/3221225816/index.m3u8?
+#http://39.135.32.236:6610/PLTV/77777777/224/3221225878/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225825/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225707/index.m3u8?#http://39.135.32.236:6610/PLTV/77777777/224/3221225875/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-id="22" tvg-name="CCTV4EUO" group-title="央视",CCTV-4欧洲
 http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-id="23" tvg-name="CCTV4AME" group-title="央视",CCTV-4美洲
@@ -105,7 +106,8 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225754/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658#http://39.135.32.236:6610/PLTV/77777777/224/3221225788/index.m3u8?#http://39.135.138.58:18890/PLTV/88888888/224/3221225725/index.m3u8#http://live.cooltv.top/tv/aishang.php?id=xjws#http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#http://39.135.32.236:6610/PLTV/77777777/224/3221225788/index.m3u8?#http://39.135.138.58:18890/PLTV/88888888/224/3221225725/index.m3u8#http://live.cooltv.top/tv/aishang.php?id=xjws#http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="58" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225794/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-id="59" tvg-name="青海卫视" group-title="卫视",青海卫视
