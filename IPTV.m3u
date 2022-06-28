@@ -8,7 +8,7 @@ http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
-http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8#http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
@@ -187,7 +187,7 @@ http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 热播精选
 http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 惊悚悬疑
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 惊悚悬疑
 http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
 
 
@@ -204,7 +204,7 @@ http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精品电台", 农业致富
 http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV", 欧美MV
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-id="" tvg-name="" tvg-logo="" group-title="MV", 欧美MV
 https://vd3.bdstatic.com/mda-naacib64q7crs1tr/hd/cae_h264_delogo/1641891651155946289/mda-naacib64q7crs1tr.mp4?pd=19&vt=1
 
 
