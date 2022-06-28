@@ -237,16 +237,16 @@ https://live.52sf.ga/huya/52880
 https://live.52sf.ga/huya/516253
 
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 https://live.52sf.ga/huya/11342412
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310?460048" group-title="一起看", 封神榜-浩民
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310?460048" group-title="一起看", 封神榜-浩民
 https://live.52sf.ga/huya/23749096
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459?460048" group-title="一起看", 天龙八部-华哥
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459?460048" group-title="一起看", 天龙八部-华哥
 https://live.52sf.ga/huya/23903123
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/14/7f0d89370a38ad314ed0f9d4b041ca_180_135.jpg?1453971479?460083" group-title="一起看", 神雕侠侣-笼包版
+#EXTINF:-1 #EXT-X-ALLOW-CACHE:YES tvg-logo="https://huyaimg.msstatic.com/avatar/1028/14/7f0d89370a38ad314ed0f9d4b041ca_180_135.jpg?1453971479?460083" group-title="一起看", 神雕侠侣-笼包版
 https://live.52sf.ga/huya/11352964
 
 
