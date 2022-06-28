@@ -125,10 +125,10 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225823/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
 http://39.135.32.236:6610/PLTV/77777777/224/3221225702/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" tvg-id="70" tvg-name="康巴卫视" group-title="卫视",康巴卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
-#http://39.134.65.166/PLTV/88888888/224/3221225527/1.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225527/1.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225527/1.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8?zweimd
+#http://39.134.65.166/PLTV/88888888/224/3221225527/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="71" tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8?zweimd#http://39.135.32.24:6610/000000001000/6603041244077933770/1.m3u8?xtkg?zweimd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://125.210.152.19:9090/live/hzgq-ssws-h264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视", 宁夏卫视超清
